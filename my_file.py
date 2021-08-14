@@ -4,4 +4,4 @@ print("Hi from another dev")
 
 
 def my_function():
-    return 'hi'
+    print("hi")
